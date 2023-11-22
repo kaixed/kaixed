@@ -23,8 +23,8 @@
 ### 📊 Github 统计
 <a href='https://github.com/kaixed'>
   
-![Stats Overview](https://github.com/kaixed/github-stats-transparent/blob/master/generated/overview.svg)
-![Most Used Languages](https://github.com/kaixed/github-stats-transparent/blob/master/generated/languages.svg)
+![Stats Overview](https://github.com/kaixed/github-stats/blob/master/generated/overview.svg)
+![Most Used Languages](https://github.com/kaixed/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
